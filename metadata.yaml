@@ -1,0 +1,23 @@
+_repo: London-Labour-and-the-London-Poor-Vol-4_63415
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Mayhew, Henry
+    birthdate: 1812
+    deathdate: 1887
+    gutenberg_agent_id: '48614'
+    url: http://www.gutenberg.org/2009/agents/48614
+    wikipedia: https://en.wikipedia.org/wiki/Henry_Mayhew
+description: ''
+gutenberg_issued: '2020-10-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63415'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: London Labour and the London Poor, Vol. 4
+url: http://www.gutenberg.org/ebooks/63415
